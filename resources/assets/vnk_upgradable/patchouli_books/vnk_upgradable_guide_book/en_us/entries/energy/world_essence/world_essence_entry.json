@@ -1,0 +1,17 @@
+{
+  "name": "entry.vnk_upgradable.world_essence.name",
+  "icon": "vnk_upgradable:world_essence",
+  "category": "vnk_upgradable:energy_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "entry.vnk_upgradable.world_essence.page1"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "vnk_upgradable:world_essence"
+      }
+    }
+  ]
+}

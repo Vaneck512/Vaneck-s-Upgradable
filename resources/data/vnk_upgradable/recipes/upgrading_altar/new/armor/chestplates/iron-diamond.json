@@ -1,0 +1,12 @@
+{
+  "type": "vnk_upgradable:vnk_upgrading",
+  "base": {"item": "minecraft:iron_chestplate"},
+  "ingredients": [{"item": "minecraft:diamond", "count": 8}, {"item": "minecraft:diamond", "count": 8}],
+  "essence": {"item": "vnk_upgradable:world_essence",
+    "count": 6
+  },
+  "output": {
+    "count": 1,
+    "item": "minecraft:diamond_chestplate"
+  }
+}

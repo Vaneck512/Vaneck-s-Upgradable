@@ -1,0 +1,55 @@
+{
+  "name": "entry.vnk_upgradable.hypercharged_tools.name",
+  "icon": "vnk_upgradable:hypercharged_pickaxe",
+  "category": "vnk_upgradable:tools_category",
+  "advancement": "vnk_upgradable:vnk_upgradable_charged_shard",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "entry.vnk_upgradable.hypercharged_tools.page1"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "vnk_upgradable:hypercharged_sword"
+      },
+      "text": "entry.vnk_upgradable.hypercharged_tools.page2"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "vnk_upgradable:hypercharged_pickaxe"
+      },
+      "text": "entry.vnk_upgradable.hypercharged_tools.page3"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "vnk_upgradable:hypercharged_axe"
+      },
+      "text": "entry.vnk_upgradable.hypercharged_tools.page4"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "vnk_upgradable:hypercharged_shovel"
+      },
+      "text": "entry.vnk_upgradable.hypercharged_tools.page5"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "vnk_upgradable:hypercharged_hoe"
+      },
+      "text": "entry.vnk_upgradable.hypercharged_tools.page6"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "entry.vnk_upgradable.hypercharged_tools.page7"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "vnk_upgradable:crafting/shapeless/hypercharged_hoe"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "vnk_upgradable:block/module_making_table_block"
+    }
+  }
+}

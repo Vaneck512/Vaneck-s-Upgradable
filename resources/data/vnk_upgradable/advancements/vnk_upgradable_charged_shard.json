@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "vnk_upgradable:charged_shard"
+    },
+    "title": {
+      "translate": "advancements.vnk_upgradable.charged_shard.title"
+    },
+    "description": {
+      "translate": "advancements.vnk_upgradable.charged_shard.description"
+    }
+  },
+  "parent": "vnk_upgradable:vnk_upgradable_root",
+  "criteria": {
+    "Trigger": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vnk_upgradable:charged_shard"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

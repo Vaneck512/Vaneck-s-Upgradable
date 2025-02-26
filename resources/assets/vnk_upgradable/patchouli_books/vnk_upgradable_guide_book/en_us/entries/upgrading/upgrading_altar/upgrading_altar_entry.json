@@ -1,0 +1,28 @@
+{
+  "name": "entry.vnk_upgradable.upgrading_altar.name",
+  "icon": "vnk_upgradable:upgrading_altar_block",
+  "category": "vnk_upgradable:upgrading_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "entry.vnk_upgradable.upgrading_altar.page1"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "vnk_upgradable:crafting/shaped/upgrading_altar"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "multiblock": {
+        "pattern": [
+          ["___P___", "_P   P_", "       ", "P  0   ", "       ", "_P   P_", "___P___"]
+        ],
+        "mapping": {
+          "0": "vnk_upgradable:upgrading_altar_block",
+          "P": "vnk_upgradable:upgrading_pylon_block",
+          "T": "minecraft:emerald_block"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":["ABA","BCB","ABA"],
+  "key":{
+    "A":{
+      "item":"minecraft:chain"
+    },
+    "B":{
+      "item":"minecraft:iron_ingot"
+    },
+    "C":{
+      "item":"minecraft:copper_ingot"
+    }
+  },
+  "result":{
+    "item":"vnk_upgradable:case","count":1
+  }
+}

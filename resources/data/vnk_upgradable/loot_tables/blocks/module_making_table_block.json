@@ -1,0 +1,13 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "vnk_upgradable:module_making_table_block"
+        }
+      ]
+    }
+  ]
+}

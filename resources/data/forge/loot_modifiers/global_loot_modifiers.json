@@ -1,0 +1,14 @@
+{
+  "entries": [
+    "vnk_upgradable:from_abandoned_mineshaft",
+    "vnk_upgradable:from_desert_pyramid",
+    "vnk_upgradable:from_jungle_temple",
+    "vnk_upgradable:from_pillager_outpost",
+    "vnk_upgradable:from_ruined_portal",
+    "vnk_upgradable:from_simple_dungeon",
+    "vnk_upgradable:from_woodland_mansion",
+    "vnk_upgradable:from_village_toolsmith",
+    "vnk_upgradable:from_village_weaponsmith"
+  ],
+  "replace": false
+}

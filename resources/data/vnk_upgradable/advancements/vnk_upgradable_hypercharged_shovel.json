@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "vnk_upgradable:hypercharged_shovel"
+    },
+    "title": {
+      "translate": "advancements.vnk_upgradable.hypercharged_shovel.title"
+    },
+    "description": {
+      "translate": "advancements.vnk_upgradable.hypercharged_shovel.description"
+    },
+    "frame": "challenge"
+  },
+  "parent": "vnk_upgradable:vnk_upgradable_module_of_durability",
+  "criteria": {
+    "Trigger": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vnk_upgradable:hypercharged_shovel"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "vnk_upgradable:module_of_durability"
+    },
+    "title": {
+      "translate": "advancements.vnk_upgradable.module_of_durability.title"
+    },
+    "description": {
+      "translate": "advancements.vnk_upgradable.module_of_durability.description"
+    }
+  },
+  "parent": "vnk_upgradable:vnk_upgradable_module_making_table",
+  "criteria": {
+    "Trigger": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vnk_upgradable:module_of_durability"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

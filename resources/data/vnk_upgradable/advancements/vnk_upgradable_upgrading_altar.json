@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "vnk_upgradable:upgrading_altar_block"
+    },
+    "title": {
+      "translate": "advancements.vnk_upgradable.upgrading_altar.title"
+    },
+    "description": {
+      "translate": "advancements.vnk_upgradable.upgrading_altar.description"
+    }
+  },
+  "parent": "vnk_upgradable:vnk_upgradable_world_essence",
+  "criteria": {
+    "Trigger": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vnk_upgradable:upgrading_altar_block"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

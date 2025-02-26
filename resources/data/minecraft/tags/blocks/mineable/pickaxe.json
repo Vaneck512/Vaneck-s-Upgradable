@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "vnk_upgradable:upgrading_altar_block",
+    "vnk_upgradable:upgrading_pylon_block",
+    "vnk_upgradable:world_extractor_block",
+    "vnk_upgradable:charged_ore",
+    "vnk_upgradable:deepslate_charged_ore",
+    "vnk_upgradable:module_making_table_block"
+  ]
+}

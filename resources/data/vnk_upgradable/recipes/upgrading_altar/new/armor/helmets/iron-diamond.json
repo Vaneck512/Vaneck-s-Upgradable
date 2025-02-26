@@ -1,0 +1,12 @@
+{
+  "type": "vnk_upgradable:vnk_upgrading",
+  "base": {"item": "minecraft:iron_helmet"},
+  "ingredients": [{"item": "minecraft:diamond", "count": 5}],
+  "essence": {"item": "vnk_upgradable:world_essence",
+    "count": 4
+  },
+  "output": {
+    "count": 1,
+    "item": "minecraft:diamond_helmet"
+  }
+}

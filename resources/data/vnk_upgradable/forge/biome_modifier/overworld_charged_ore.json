@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "features": "vnk_upgradable:overworld_charged_ore",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "step": "underground_ores"
+}

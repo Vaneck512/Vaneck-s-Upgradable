@@ -1,0 +1,12 @@
+{
+  "type": "vnk_upgradable:vnk_upgrading",
+  "base": {"item": "minecraft:iron_chestplate"},
+  "ingredients": [{"item": "minecraft:chain", "count": 8}],
+  "essence": {"item": "vnk_upgradable:world_essence",
+    "count": 5
+  },
+  "output": {
+    "count": 1,
+    "item": "minecraft:chainmail_chestplate"
+  }
+}

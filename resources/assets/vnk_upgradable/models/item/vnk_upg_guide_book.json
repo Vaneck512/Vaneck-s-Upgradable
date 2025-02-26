@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "vnk_upgradable:item/vnk_upg_guide_book"
+  }
+}

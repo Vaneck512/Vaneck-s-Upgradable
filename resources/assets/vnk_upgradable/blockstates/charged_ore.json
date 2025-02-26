@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "vnk_upgradable:block/charged_ore"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "vnk_upgradable:vnk_upgrading",
+  "base": {"item": "minecraft:stone_axe"},
+  "ingredients": [{"item": "minecraft:iron_ingot", "count": 3}],
+  "essence": {"item": "vnk_upgradable:world_essence",
+    "count": 2
+  },
+  "output": {
+    "count": 1,
+    "item": "minecraft:iron_axe"
+  }
+}

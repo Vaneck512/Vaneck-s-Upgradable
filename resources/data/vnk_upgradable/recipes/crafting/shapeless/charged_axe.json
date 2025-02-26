@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_axe"
+    },
+    {
+      "item": "vnk_upgradable:charged_shard"
+    },
+    {
+      "item": "vnk_upgradable:charged_shard"
+    },
+    {
+      "item": "vnk_upgradable:charged_shard"
+    }
+  ],
+  "result": {
+    "item": "vnk_upgradable:charged_axe",
+    "count": 1
+  }
+}

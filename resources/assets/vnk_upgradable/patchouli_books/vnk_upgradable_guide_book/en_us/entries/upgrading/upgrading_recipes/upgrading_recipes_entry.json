@@ -1,0 +1,11 @@
+{
+  "name": "entry.vnk_upgradable.upgrading_recipes.name",
+  "icon": "vnk_upgradable:upgrading_altar_block",
+  "category": "vnk_upgradable:upgrading_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "entry.vnk_upgradable.upgrading_recipes.page1"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "display": {
+    "icon": {
+      "item": "vnk_upgradable:upgrading_altar_block"
+    },
+    "title": {
+      "translate": "advancements.vnk_upgradable.root.title"
+    },
+    "description": {
+      "translate": "advancements.vnk_upgradable.root.description"
+    },
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "Trigger ": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

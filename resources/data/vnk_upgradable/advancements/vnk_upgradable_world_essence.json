@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "vnk_upgradable:world_essence"
+    },
+    "title": {
+      "translate": "advancements.vnk_upgradable.world_essence.title"
+    },
+    "description": {
+      "translate": "advancements.vnk_upgradable.world_essence.description"
+    }
+  },
+  "parent": "vnk_upgradable:vnk_upgradable_charged_shard",
+  "criteria": {
+    "Trigger": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vnk_upgradable:world_essence"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "entry.vnk_upgradable.upgrading_pylon.name",
+  "icon": "vnk_upgradable:upgrading_pylon_block",
+  "category": "vnk_upgradable:upgrading_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "entry.vnk_upgradable.upgrading_pylon.page1"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "vnk_upgradable:crafting/shaped/upgrading_pylon"
+    }
+  ]
+}

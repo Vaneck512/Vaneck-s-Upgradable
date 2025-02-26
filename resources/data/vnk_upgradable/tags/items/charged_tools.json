@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "vnk_upgradable:charged_pickaxe",
+    "vnk_upgradable:charged_sword",
+    "vnk_upgradable:charged_axe",
+    "vnk_upgradable:charged_shovel",
+    "vnk_upgradable:charged_hoe"
+  ]
+}

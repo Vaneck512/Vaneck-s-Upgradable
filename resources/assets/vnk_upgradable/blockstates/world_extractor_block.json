@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "vnk_upgradable:block/world_extractor_block" },
+    "facing=east": { "model": "vnk_upgradable:block/world_extractor_block", "y": 90 },
+    "facing=south": { "model": "vnk_upgradable:block/world_extractor_block", "y": 180 },
+    "facing=west": { "model": "vnk_upgradable:block/world_extractor_block", "y": 270 }
+  }
+}

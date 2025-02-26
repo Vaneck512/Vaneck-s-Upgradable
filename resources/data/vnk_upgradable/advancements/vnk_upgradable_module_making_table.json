@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "vnk_upgradable:module_making_table_block"
+    },
+    "title": {
+      "translate": "advancements.vnk_upgradable.module_making_table.title"
+    },
+    "description": {
+      "translate": "advancements.vnk_upgradable.module_making_table.description"
+    }
+  },
+  "parent": "vnk_upgradable:vnk_upgradable_root",
+  "criteria": {
+    "Trigger": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vnk_upgradable:module_making_table_block"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

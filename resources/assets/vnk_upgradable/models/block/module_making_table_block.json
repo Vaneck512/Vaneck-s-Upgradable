@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "vnk_upgradable:block/world_extractor_top",
+    "east": "vnk_upgradable:block/module_making_table_block_side",
+    "north": "vnk_upgradable:block/module_making_table_block_front",
+    "particle": "vnk_upgradable:block/module_making_table_block_front",
+    "south": "vnk_upgradable:block/module_making_table_block_side",
+    "up": "vnk_upgradable:block/module_making_table_block_top",
+    "west": "vnk_upgradable:block/module_making_table_block_front"
+  }
+}

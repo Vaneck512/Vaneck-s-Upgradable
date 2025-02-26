@@ -1,0 +1,21 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":["ABA","ADA","ACA"],
+  "key":{
+    "A":{
+      "item":"minecraft:polished_diorite"
+    },
+    "B":{
+      "item":"minecraft:crafting_table"
+    },
+    "C":{
+      "item":"vnk_upgradable:charged_shard"
+    },
+    "D": {
+      "item": "vnk_upgradable:case"
+    }
+  },
+  "result":{
+    "item":"vnk_upgradable:module_making_table_block","count":1
+  }
+}

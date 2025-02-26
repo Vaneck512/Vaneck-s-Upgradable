@@ -1,0 +1,133 @@
+{
+ "comment1.vnc": "____________GUI____________",
+ "gui.vnk_upgradable.upgrading_altar.label_upgrading_altar": "Upgrading",
+ "gui.vnk_upgradable.module_making_table.label_module_making_table": "Module making",
+
+ "comment2.vnc": "____________KEYS____________",
+ "key.vnk_upgradable.view_block_outline_key": "Switch block's outlines showing",
+ "key.categories.vnk_upgradable": "Vaneck's Upgradable",
+ "message.vnk_upgradable.view_block_outline_pressed_on": "§b Vaneck's Upgradable: §7 Block's outlines is §2 on",
+ "message.vnk_upgradable.view_block_outline_pressed_off": "§b Vaneck's Upgradable: §7 Block's outlines is §4 off",
+
+ "comment3.vnc": "____________MESSAGE____________",
+ "message.vnk_upgradable.altar_no_pylons": "Not enough pylons",
+
+ "comment4.vnc": "____________TOOLTIP____________",
+ "tooltip.vnk_upgrading.upgrading_altar": "Needs 7 upgrading pylons",
+
+ "comment5.vnc": "____________ADVANCEMENTS____________",
+ "advancements.vnk_upgradable.root.title": "Vaneck's Upgradable",
+ "advancements.vnk_upgradable.root.description": "Welcome",
+ "advancements.vnk_upgradable.charged_shard.title": "Where it all began",
+ "advancements.vnk_upgradable.charged_shard.description": "Get the charged shard",
+ "advancements.vnk_upgradable.world_essence.title": "Clear energy",
+ "advancements.vnk_upgradable.world_essence.description": "Get the world essence",
+ "advancements.vnk_upgradable.upgrading_altar.title": "Upgrading altar",
+ "advancements.vnk_upgradable.upgrading_altar.description": "Get an Upgrading Altar - base of mod",
+ "advancements.vnk_upgradable.module_making_table.title": "Module Making",
+ "advancements.vnk_upgradable.module_making_table.description": "Get the Module making table",
+ "advancements.vnk_upgradable.module_of_durability.title": "Module of durability",
+ "advancements.vnk_upgradable.module_of_durability.description": "Get the Module of durability",
+ "advancements.vnk_upgradable.hypercharged_sword.title": "Hypercharged sword",
+ "advancements.vnk_upgradable.hypercharged_sword.description": "Upgrade charged sword to §b hypercharged",
+ "advancements.vnk_upgradable.hypercharged_pickaxe.title": "Hypercharged pickaxe",
+ "advancements.vnk_upgradable.hypercharged_pickaxe.description": "Upgrade charged pickaxe to §b hypercharged",
+ "advancements.vnk_upgradable.hypercharged_axe.title": "Hypercharged axe",
+ "advancements.vnk_upgradable.hypercharged_axe.description": "Upgrade charged axe to §b hypercharged",
+ "advancements.vnk_upgradable.hypercharged_shovel.title": "Hypercharged shovel",
+ "advancements.vnk_upgradable.hypercharged_shovel.description": "Upgrade charged shovel to §b hypercharged",
+ "advancements.vnk_upgradable.hypercharged_hoe.title": "Hypercharged hoe",
+ "advancements.vnk_upgradable.hypercharged_hoe.description": "Upgrade charged hoe to §b hypercharged",
+
+
+ "comment6.vnc": "___________PATCHOULI___________",
+ "book.vnk_upgradable.name": "Research records",
+ "book.vnk_upgradable.landing_text": "Hello, $(playername). Welcome to <<$(blue)Vaneck's Upgradable$(0)>>! This book was created to help you with this mod. Have a nice game!",
+
+
+ "category.vnk_upgradable.upgrading.name": "Upgrading",
+ "category.vnk_upgradable.upgrading.description": "Everything about upgrading altar",
+ "category.vnk_upgradable.energy.name": "Energy",
+ "category.vnk_upgradable.energy.description": "How it all began...",
+ "category.vnk_upgradable.tools.name": "Tools and accessories",
+ "category.vnk_upgradable.tools.description": "New tools, weapons and armor",
+
+
+ "entry.vnk_upgradable.upgrading_altar.name": "Upgrading altar",
+ "entry.vnk_upgradable.upgrading_altar.page1": "Clean energy - new opportunities. Using the altar of upgrading, you can upgrade items, making them a higher level, for example, from iron to diamond.  $(l) At the same time, all data, enchantments and other characteristics of the items are preserved!",
+
+ "entry.vnk_upgradable.upgrading_pylon.name": "Upgrading pylon",
+ "entry.vnk_upgradable.upgrading_pylon.page1": "Pylons are an integral part of the improvement altar. Arranged in the right order, they are able to direct the energy of objects inserted into them into the object on the altar.",
+
+ "entry.vnk_upgradable.upgrading_recipes.name": "Recipes",
+ "entry.vnk_upgradable.upgrading_recipes.page1": "All recipes for upgrading and creating new items. $(l) Soon...",
+
+
+ "entry.vnk_upgradable.new_ore.name": "New ore",
+ "entry.vnk_upgradable.new_ore.page1": "Unusual ore can sometimes be found underground. This is an accumulation of strange energy that, if used correctly, can be used to your advantage.",
+
+ "entry.vnk_upgradable.world_extractor.name": "World extractor",
+ "entry.vnk_upgradable.world_extractor.page1": "Using this seemingly simple mechanism, you can extract the essence of the world from the fragments that fall out of the ore. Also, a small amount of it can be obtained from a larger amount of familiar ores.",
+
+ "entry.vnk_upgradable.world_essence.name": "World essence",
+ "entry.vnk_upgradable.world_essence.page1": "The essence of the world is pure energy, the properties of which are still not fully understood. It can be obtained in the world extractor from ores or charged fragments and used, for example, to operate an upgrading altar.",
+
+
+ "entry.vnk_upgradable.charged_tools.name": "Charged tools",
+ "entry.vnk_upgradable.charged_tools.page1": "Upgraded tools can be useful, but not for long, since their improvement will simply be a small increase in characteristics, but these tools hold much greater potential, perhaps something can be made from them...",
+ "entry.vnk_upgradable.charged_tools.page2": "Upgraded with $(blue)Charged Shard$(0), the $(item)Iron Sword$(0) has received a slight increase in damage and attack speed.",
+ "entry.vnk_upgradable.charged_tools.page3": "Upgraded with $(blue)charged shard$(0), $(item)iron pickaxe$(0) received digging speed close to gold tools, but $(l)did not lose its durability.",
+ "entry.vnk_upgradable.charged_tools.page4": "Upgraded with a $(blue)charged shard$(0), the $(item)iron axe$(0) gained digging speed close to gold tools, but $(l)didn't lose its durability.",
+ "entry.vnk_upgradable.charged_tools.page5": "Upgraded with a $(blue)charged shard$(0), the $(item)iron shovel$(0) gained digging speed close to gold tools, but $(l)did not lose its durability.",
+ "entry.vnk_upgradable.charged_tools.page6": "Upgraded with $(blue)Charged Shard$(0), the $(item)Iron Hoe$(0) has slightly increased its durability.",
+
+ "entry.vnk_upgradable.hypercharged_tools.name": "Hypercharged tools",
+ "entry.vnk_upgradable.hypercharged_tools.page1": "You came up with the idea of charging some object with a large amount of energy on the altar, but the object could not stand it and collapsed. After a huge number of attempts, experiments with strong objects and a durability module led to success. You can now upgrade charged tools with Obsidian Rod and Durability Module.",
+ "entry.vnk_upgradable.hypercharged_tools.page2": "$(item)Hypercharged Sword$(0) has the ability to damage nearby mobs with an energy wave upon impact. Also, thanks to the energy rushing outward, the sword cuts through the air with ease: $(l)Attack speed is significantly increased",
+ "entry.vnk_upgradable.hypercharged_tools.page3": "$(item)Hypercharged Pickaxe$(0) releases a portion of energy each time it hits a block, allowing it to break $(l)blocks within a 3x3$(0) radius. It can be repaired using $(item)charged shards.",
+ "entry.vnk_upgradable.hypercharged_tools.page4": "$(item)Hypercharged axe$(0) releases part of the energy with each hit on a block, thanks to which it can break $(l)an entire tree at one time $(0) *configurable in the config*. It can be repaired with $(item)charged shards.",
+ "entry.vnk_upgradable.hypercharged_tools.page5": "$(item)Hypercharged Shovel$(0) releases some energy with each hit on a block, allowing it to break $(l)blocks within a 3x3$(0) radius (only those that can be mined with the shovel). It can be repaired using $(item)charged shards.",
+ "entry.vnk_upgradable.hypercharged_tools.page6": "$(item)The Hypercharged Hoe $(0) is a little different from the other tools. Thanks to the order module, you managed to curb chaos and prevent the destruction of blocks.",
+ "entry.vnk_upgradable.hypercharged_tools.page7": "Now, when you press RMB, the hoe will plow the ground $(l)in a special way$(0), which will allow the plants on it $(l)to grow a little faster$(0). Plows in a 3x3 radius. It can be repaired using $(item)charged shards.",
+
+
+ "entry.vnk_upgradable.charged_armor.name": "Charged armor",
+ "entry.vnk_upgradable.charged_armor.page1": "Upgraded armor, like tools, has slightly improved characteristics, and at the same time also contains much more potential, perhaps it can be made into something more",
+ "entry.vnk_upgradable.charged_armor.page2": "Upgraded with $(blue)Charged Shard$(0), $(item)Iron Helmet$(0) has received a slight increase in defense",
+ "entry.vnk_upgradable.charged_armor.page3": "Upgraded with $(blue)Charged Shard$(0), $(item)Iron chestplate$(0) has received a $(l)small increase in defense",
+ "entry.vnk_upgradable.charged_armor.page4": "Upgraded with $(blue)Charged Shard$(0), $(item)Iron Leggings$(0) have received a $(l)small increase in defense",
+ "entry.vnk_upgradable.charged_armor.page5": "Upgraded with $(blue)Charged Shard$(0), $(item)Iron Boots$(0) have received a $(l)small increase in defense",
+
+
+ "comment7.vnc": "____________BLOCK____________",
+ "block.vnk_upgradable.world_extractor_block": "World Extractor",
+ "block.vnk_upgradable.upgrading_altar_block": "Upgrading Altar",
+ "block.vnk_upgradable.upgrading_pylon_block": "Upgrading Pylon",
+ "block.vnk_upgradable.module_making_table_block": "Module making table",
+ "block.vnk_upgradable.charged_ore": "Energy cluster",
+ "block.vnk_upgradable.deepslate_charged_ore": "Deepslate Energy cluster",
+
+ "comment8.vnc": "____________Item____________",
+ "item.vnk_upgradable.world_essence": "World essence",
+ "item.vnk_upgradable.charged_shard": "Charged shard",
+ "item.vnk_upgradable.circuit": "Circuit",
+ "item.vnk_upgradable.module_of_durability": "Module of durability",
+ "item.vnk_upgradable.module_of_order": "Module of order",
+ "item.vnk_upgradable.case": "Case",
+ "item.vnk_upgradable.obsidian_rod": "Obsidian rod",
+ "item.vnk_upgradable.charged_sword": "Charged sword",
+ "item.vnk_upgradable.charged_pickaxe": "Charged pickaxe",
+ "item.vnk_upgradable.charged_axe": "Charged axe",
+ "item.vnk_upgradable.charged_shovel": "Charged shovel",
+ "item.vnk_upgradable.charged_hoe": "Charged hoe",
+ "item.vnk_upgradable.hypercharged_sword": "Hypercharged sword",
+ "item.vnk_upgradable.hypercharged_pickaxe": "Hyperchared pickaxe",
+ "item.vnk_upgradable.hypercharged_axe": "Hypercharged axe",
+ "item.vnk_upgradable.hypercharged_shovel": "Hypercharged shovel",
+ "item.vnk_upgradable.hypercharged_hoe": "Hypercharged hoe",
+ "item.vnk_upgradable.charged_helmet": "Charged helmet",
+ "item.vnk_upgradable.charged_chestplate": "Charged chestplate",
+ "item.vnk_upgradable.charged_leggings": "Charged leggings",
+ "item.vnk_upgradable.charged_boots": "Charged boots"
+
+}

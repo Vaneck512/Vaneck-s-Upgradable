@@ -1,0 +1,16 @@
+{
+  "type": "vnk_upgradable:vnk_upgrading",
+  "base": {"item": "minecraft:iron_chestplate"},
+  "ingredients": [{"tag": "forge:ingots/steel", "count": 7},{"tag": "forge:ingots/iron", "count": 2}],
+  "essence": {"item": "vnk_upgradable:world_essence",
+    "count": 3
+  },
+  "conditions": [{
+    "type": "forge:mod_loaded",
+    "modid": "mekanismtools"
+  }],
+  "output": {
+    "count": 1,
+    "item": "mekanismtools:steel_chestplate"
+  }
+}

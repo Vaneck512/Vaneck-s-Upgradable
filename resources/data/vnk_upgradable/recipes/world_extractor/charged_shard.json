@@ -1,0 +1,12 @@
+{
+  "type": "vnk_upgradable:extracting",
+  "ingredient":
+  {
+    "item": "vnk_upgradable:charged_shard",
+    "count": 1
+  },
+  "output": {
+    "count": 10,
+    "item": "vnk_upgradable:world_essence"
+  }
+}

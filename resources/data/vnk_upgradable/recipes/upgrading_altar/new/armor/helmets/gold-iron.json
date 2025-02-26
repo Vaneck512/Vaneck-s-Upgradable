@@ -1,0 +1,12 @@
+{
+  "type": "vnk_upgradable:vnk_upgrading",
+  "base": {"item": "minecraft:golden_helmet"},
+  "ingredients": [{"item": "minecraft:iron_ingot", "count": 5}],
+  "essence": {"item": "vnk_upgradable:world_essence",
+    "count": 3
+  },
+  "output": {
+    "count": 1,
+    "item": "minecraft:iron_helmet"
+  }
+}

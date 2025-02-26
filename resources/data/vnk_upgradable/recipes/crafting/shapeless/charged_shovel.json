@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_shovel"
+    },
+    {
+      "item": "vnk_upgradable:charged_shard"
+    }
+  ],
+  "result": {
+    "item": "vnk_upgradable:charged_shovel",
+    "count": 1
+  }
+}

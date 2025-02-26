@@ -1,0 +1,15 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":[" A ","ABA"," A "],
+  "key":{
+    "A":{
+      "tag":"minecraft:stone_crafting_materials"},
+    "B":{
+      "item":"minecraft:emerald"
+    }
+  },
+  "result": {
+    "item":"upgradable:upgrade_smithing_template",
+    "count":1
+  }
+}

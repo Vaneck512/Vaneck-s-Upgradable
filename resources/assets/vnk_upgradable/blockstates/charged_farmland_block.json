@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "moisture=0": {
+      "model": "vnk_upgradable:block/charged_farmland_block"
+    },
+    "moisture=1": {
+      "model": "vnk_upgradable:block/charged_farmland_block"
+    },
+    "moisture=2": {
+      "model": "vnk_upgradable:block/charged_farmland_block"
+    },
+    "moisture=3": {
+      "model": "vnk_upgradable:block/charged_farmland_block"
+    },
+    "moisture=4": {
+      "model": "vnk_upgradable:block/charged_farmland_block"
+    },
+    "moisture=5": {
+      "model": "vnk_upgradable:block/charged_farmland_block"
+    },
+    "moisture=6": {
+      "model": "vnk_upgradable:block/charged_farmland_block"
+    },
+    "moisture=7": {
+      "model": "vnk_upgradable:block/charged_farmland_moist_block"
+    }
+  }
+}

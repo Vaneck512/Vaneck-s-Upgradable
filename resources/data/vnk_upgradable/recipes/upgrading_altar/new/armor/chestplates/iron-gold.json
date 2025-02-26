@@ -1,0 +1,12 @@
+{
+  "type": "vnk_upgradable:vnk_upgrading",
+  "base": {"item": "minecraft:iron_chestplate"},
+  "ingredients": [{"item": "minecraft:gold_ingot", "count": 8}],
+  "essence": {"item": "vnk_upgradable:world_essence",
+    "count": 5
+  },
+  "output": {
+    "count": 1,
+    "item": "minecraft:golden_chestplate"
+  }
+}

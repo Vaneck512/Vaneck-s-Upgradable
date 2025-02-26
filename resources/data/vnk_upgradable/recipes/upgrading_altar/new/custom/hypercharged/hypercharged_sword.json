@@ -1,0 +1,16 @@
+{
+  "type": "vnk_upgradable:vnk_upgrading",
+  "base": {"item": "vnk_upgradable:charged_sword"},
+  "ingredients": [
+    {"item": "vnk_upgradable:obsidian_rod", "count": 1},
+    {"item": "minecraft:diamond", "count": 1},
+    {"item": "vnk_upgradable:module_of_durability", "count": 1}
+  ],
+  "essence": {"item": "vnk_upgradable:world_essence",
+    "count": 192
+  },
+  "output": {
+    "count": 1,
+    "item": "vnk_upgradable:hypercharged_sword"
+  }
+}

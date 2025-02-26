@@ -1,0 +1,60 @@
+{
+  "name": "entry.vnk_upgradable.charged_tools.name",
+  "icon": "vnk_upgradable:charged_pickaxe",
+  "category": "vnk_upgradable:tools_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "entry.vnk_upgradable.charged_tools.page1"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "vnk_upgradable:charged_sword"
+      },
+      "text": "entry.vnk_upgradable.charged_tools.page2"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "vnk_upgradable:crafting/shapeless/charged_sword",
+      "recipe2": "vnk_upgradable:crafting/shapeless/charged_pickaxe"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "vnk_upgradable:charged_pickaxe"
+      },
+      "text": "entry.vnk_upgradable.charged_tools.page3"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "vnk_upgradable:charged_axe"
+      },
+      "text": "entry.vnk_upgradable.charged_tools.page4"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "vnk_upgradable:crafting/shapeless/charged_axe",
+      "recipe2": "vnk_upgradable:crafting/shapeless/charged_shovel"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "vnk_upgradable:charged_shovel"
+      },
+      "text": "entry.vnk_upgradable.charged_tools.page5"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "vnk_upgradable:charged_hoe"
+      },
+      "text": "entry.vnk_upgradable.charged_tools.page6"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "vnk_upgradable:crafting/shapeless/charged_hoe"
+    }
+  ]
+}

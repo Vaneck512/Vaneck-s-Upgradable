@@ -1,0 +1,46 @@
+{
+  "type": "vnk_upgradable:module_making",
+  "ingredients":
+  [
+    {
+      "tag": "forge:circuits",
+      "count": 1
+    },
+    {
+      "item": "minecraft:chiseled_sandstone",
+      "count": 1
+    },
+    {
+      "item": "vnk_upgradable:world_essence",
+      "count": 1
+    },
+    {
+      "item": "minecraft:chiseled_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "minecraft:diamond",
+      "count": 1
+    },
+    {
+      "item": "minecraft:chiseled_sandstone",
+      "count": 1
+    },
+    {
+      "item": "vnk_upgradable:world_essence",
+      "count": 1
+    },
+    {
+      "item": "minecraft:chiseled_stone_bricks",
+      "count": 1
+    },
+    {
+      "item": "minecraft:diamond",
+      "count": 1
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "vnk_upgradable:module_of_order"
+  }
+}

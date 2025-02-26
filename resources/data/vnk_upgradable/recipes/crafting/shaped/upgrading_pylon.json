@@ -1,0 +1,18 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":[" A ","ABA","CCC"],
+  "key":{
+    "A":{
+      "item":"minecraft:gold_ingot"
+    },
+    "B":{
+      "item":"minecraft:emerald"
+    },
+    "C":{
+      "item":"minecraft:stone"
+    }
+  },
+  "result":{
+    "item":"vnk_upgradable:upgrading_pylon_block","count":1
+  }
+}

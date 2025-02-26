@@ -1,0 +1,15 @@
+{
+  "name": "entry.vnk_upgradable.world_extractor.name",
+  "icon": "vnk_upgradable:world_extractor_block",
+  "category": "vnk_upgradable:energy_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "entry.vnk_upgradable.world_extractor.page1"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "vnk_upgradable:crafting/shaped/world_extractor"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "vnk_upgradable:vnk_upgrading",
+  "base": {"item": "mekanismtools:iron_paxel"},
+  "ingredients": [{"tag": "forge:ingots/osmium", "count": 7}],
+  "essence": {"item": "vnk_upgradable:world_essence",
+    "count": 3
+  },
+  "conditions": [{
+    "type": "forge:mod_loaded",
+    "modid": "mekanismtools"
+  }],
+  "output": {
+    "count": 1,
+    "item": "mekanismtools:osmium_paxel"
+  }
+}

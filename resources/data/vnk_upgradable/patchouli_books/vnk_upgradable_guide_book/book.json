@@ -1,0 +1,17 @@
+{
+  "name": "book.vnk_upgradable.name",
+  "landing_text": "book.vnk_upgradable.landing_text",
+  "version": 1,
+  "creative_tab": "vnk_upgradable:vnk_upgradable_tab",
+  "book_texture": "vnk_upgradable:textures/gui/blue_guide_book.png",
+  "model": "vnk_upgradable:vnk_upg_guide_book",
+  "advancements_tab": "vnk_upgradable:vnk_upgradable_root",
+  "progress_bar_color": "33FFFF",
+  "pause_game": false,
+  "use_resource_pack": true,
+  "i18n": true,
+  "macros": {
+    "$(item)": "$(1)",
+    "$(blue)": "$(#00BFFF)"
+  }
+}

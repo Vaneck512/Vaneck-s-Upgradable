@@ -1,0 +1,13 @@
+{
+  "type": "vnk_upgradable:extracting",
+  "ingredient":
+    {
+      "item": "minecraft:raw_gold",
+      "count": 15
+    }
+  ,
+  "output": {
+    "count": 1,
+    "item": "vnk_upgradable:world_essence"
+  }
+}

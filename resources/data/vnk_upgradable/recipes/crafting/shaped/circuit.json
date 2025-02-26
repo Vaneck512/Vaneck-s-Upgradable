@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#I#",
+    "GcR",
+    "#R#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:green_dye"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "G": {
+      "item": "minecraft:gold_nugget"
+    },
+    "c": {
+      "item": "minecraft:copper_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {"item": "vnk_upgradable:circuit"}
+}

@@ -1,0 +1,16 @@
+{
+  "type": "vnk_upgradable:vnk_upgrading",
+  "base": {"item": "minecraft:stone_pickaxe"},
+  "ingredients": [{"tag": "forge:gems/lapis", "count": 7}],
+  "essence": {"item": "vnk_upgradable:world_essence",
+    "count": 3
+  },
+  "conditions": [{
+    "type": "forge:mod_loaded",
+    "modid": "mekanismtools"
+  }],
+  "output": {
+    "count": 1,
+    "item": "mekanismtools:lapis_lazuli_pickaxe"
+  }
+}

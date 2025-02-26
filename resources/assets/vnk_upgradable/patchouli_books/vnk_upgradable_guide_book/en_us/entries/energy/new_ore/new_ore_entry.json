@@ -1,0 +1,15 @@
+{
+  "name": "entry.vnk_upgradable.new_ore.name",
+  "icon": "vnk_upgradable:charged_ore",
+  "category": "vnk_upgradable:energy_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "entry.vnk_upgradable.new_ore.page1"
+    },
+    {
+      "type": "patchouli:image",
+      "images": ["vnk_upgradable:textures/patchouli/ore_img.png"]
+    }
+  ]
+}

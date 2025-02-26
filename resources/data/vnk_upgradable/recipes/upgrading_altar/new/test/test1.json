@@ -1,0 +1,12 @@
+{
+  "type": "vnk_upgradable:vnk_upgrading_",
+  "base": {"item": "minecraft:diamond"},
+  "ingredients": [{"item": "minecraft:iron_ingot", "count": 128}],
+  "essence": {"item": "vnk_upgradable:world_essence",
+    "count": 2
+  },
+  "output": {
+    "count": 1,
+    "item": "minecraft:iron_boots"
+  }
+}

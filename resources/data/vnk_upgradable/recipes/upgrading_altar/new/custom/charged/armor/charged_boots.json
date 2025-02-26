@@ -1,0 +1,14 @@
+{
+  "type": "vnk_upgradable:vnk_upgrading",
+  "base": {"item": "minecraft:iron_boots"},
+  "ingredients": [
+    {"item": "vnk_upgradable:charged_shard", "count": 4}
+  ],
+  "essence": {"item": "vnk_upgradable:world_essence",
+    "count": 30
+  },
+  "output": {
+    "count": 1,
+    "item": "vnk_upgradable:charged_boots"
+  }
+}

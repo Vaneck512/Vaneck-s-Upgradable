@@ -1,0 +1,16 @@
+{
+  "type": "vnk_upgradable:vnk_upgrading",
+  "base": {"item": "simplyswords:gold_greataxe"},
+  "ingredients": [{"tag": "forge:ingots/iron", "count": 3}, {"tag": "forge:nuggets/iron","count": 2}],
+  "essence": {"item": "vnk_upgradable:world_essence",
+    "count": 3
+  },
+  "conditions": [{
+    "type": "forge:mod_loaded",
+    "modid": "simplyswords"
+  }],
+  "output": {
+    "count": 1,
+    "item": "simplyswords:iron_greataxe"
+  }
+}

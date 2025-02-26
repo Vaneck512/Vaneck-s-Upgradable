@@ -1,0 +1,21 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":["AAA","BCB","ADA"],
+  "key":{
+    "A":{
+      "item":"minecraft:polished_diorite"
+    },
+    "B":{
+      "item":"minecraft:glass"
+    },
+    "C":{
+      "item":"vnk_upgradable:case"
+    },
+    "D":{
+      "item":"vnk_upgradable:charged_shard"
+    }
+  },
+  "result":{
+    "item":"vnk_upgradable:world_extractor_block","count":1
+  }
+}

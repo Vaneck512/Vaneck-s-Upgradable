@@ -1,0 +1,49 @@
+{
+  "name": "entry.vnk_upgradable.charged_armor.name",
+  "icon": "vnk_upgradable:charged_chestplate",
+  "category": "vnk_upgradable:tools_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "entry.vnk_upgradable.charged_armor.page1"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "vnk_upgradable:charged_helmet"
+      },
+      "text": "entry.vnk_upgradable.charged_armor.page2"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "vnk_upgradable:crafting/shapeless/armor/charged_helmet",
+      "recipe2": "vnk_upgradable:crafting/shapeless/armor/charged_chestplate"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "vnk_upgradable:charged_chestplate"
+      },
+      "text": "entry.vnk_upgradable.charged_armor.page3"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "vnk_upgradable:charged_leggings"
+      },
+      "text": "entry.vnk_upgradable.charged_armor.page4"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "vnk_upgradable:crafting/shapeless/armor/charged_leggings",
+      "recipe2": "vnk_upgradable:crafting/shapeless/armor/charged_boots"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "vnk_upgradable:charged_boots"
+      },
+      "text": "entry.vnk_upgradable.charged_armor.page5"
+    }
+  ]
+}

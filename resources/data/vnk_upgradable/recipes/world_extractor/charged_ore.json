@@ -1,0 +1,12 @@
+{
+  "type": "vnk_upgradable:extracting",
+  "ingredient":
+  {
+    "item": "vnk_upgradable:charged_ore",
+    "count": 1
+  },
+  "output": {
+    "count": 15,
+    "item": "vnk_upgradable:world_essence"
+  }
+}

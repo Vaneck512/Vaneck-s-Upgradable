@@ -1,0 +1,12 @@
+{
+  "type": "vnk_upgradable:vnk_upgrading",
+  "base": {"item": "minecraft:wooden_pickaxe"},
+  "ingredients": [{"tag": "minecraft:stone_tool_materials", "count": 3}],
+  "essence": {"item": "vnk_upgradable:world_essence",
+    "count": 2
+  },
+  "output": {
+    "count": 1,
+    "item": "minecraft:stone_pickaxe"
+  }
+}

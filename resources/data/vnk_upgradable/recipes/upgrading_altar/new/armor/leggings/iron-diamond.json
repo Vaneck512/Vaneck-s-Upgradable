@@ -1,0 +1,12 @@
+{
+  "type": "vnk_upgradable:vnk_upgrading",
+  "base": {"item": "minecraft:iron_leggings"},
+  "ingredients": [{"item": "minecraft:diamond", "count": 7}],
+  "essence": {"item": "vnk_upgradable:world_essence",
+    "count": 5
+  },
+  "output": {
+    "count": 1,
+    "item": "minecraft:diamond_leggings"
+  }
+}

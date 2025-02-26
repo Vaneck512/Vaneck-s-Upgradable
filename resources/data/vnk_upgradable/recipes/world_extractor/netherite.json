@@ -1,0 +1,13 @@
+{
+  "type": "vnk_upgradable:extracting",
+  "ingredient":
+    {
+      "item": "minecraft:netherite_ingot",
+      "count": 1
+    }
+  ,
+  "output": {
+    "count": 5,
+    "item": "vnk_upgradable:world_essence"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "vnk_upgradable:vnk_upgrading",
+  "base": {"item": "simplyswords:iron_sai"},
+  "ingredients": [{"tag": "forge:ingots/gold", "count": 1}],
+  "essence": {"item": "vnk_upgradable:world_essence",
+    "count": 1
+  },
+  "conditions": [{
+    "type": "forge:mod_loaded",
+    "modid": "simplyswords"
+  }],
+  "output": {
+    "count": 1,
+    "item": "simplyswords:gold_sai"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "type": "vnk_upgradable:module_making",
+  "ingredients":
+  [
+    {
+      "tag": "forge:circuits",
+      "count": 1
+    },
+    {
+      "item": "minecraft:obsidian",
+      "count": 1
+    },
+    {
+      "item": "vnk_upgradable:charged_shard",
+      "count": 1
+    },
+    {
+      "item": "minecraft:obsidian",
+      "count": 1
+    },
+    {
+      "item": "minecraft:redstone",
+      "count": 1
+    },
+    {
+      "item": "minecraft:obsidian",
+      "count": 1
+    },
+    {
+      "item": "vnk_upgradable:charged_shard",
+      "count": 1
+    },
+    {
+      "item": "minecraft:obsidian",
+      "count": 1
+    },
+    {
+      "item": "minecraft:redstone",
+      "count": 1
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "vnk_upgradable:module_of_durability"
+  }
+}

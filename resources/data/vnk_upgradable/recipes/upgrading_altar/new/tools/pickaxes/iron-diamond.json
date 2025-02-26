@@ -1,0 +1,12 @@
+{
+  "type": "vnk_upgradable:vnk_upgrading",
+  "base": {"item": "minecraft:iron_pickaxe"},
+  "ingredients": [{"tag": "forge:gems/diamond", "count": 3}],
+  "essence": {"item": "vnk_upgradable:world_essence",
+    "count": 3
+  },
+  "output": {
+    "count": 1,
+    "item": "minecraft:diamond_pickaxe"
+  }
+}

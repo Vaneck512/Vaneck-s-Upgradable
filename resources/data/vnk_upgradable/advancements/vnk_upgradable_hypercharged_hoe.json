@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "vnk_upgradable:hypercharged_hoe"
+    },
+    "title": {
+      "translate": "advancements.vnk_upgradable.hypercharged_hoe.title"
+    },
+    "description": {
+      "translate": "advancements.vnk_upgradable.hypercharged_hoe.description"
+    },
+    "frame": "challenge"
+  },
+  "parent": "vnk_upgradable:vnk_upgradable_module_of_durability",
+  "criteria": {
+    "Trigger": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "vnk_upgradable:hypercharged_hoe"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

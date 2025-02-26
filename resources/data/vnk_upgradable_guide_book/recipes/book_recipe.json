@@ -1,0 +1,12 @@
+{
+  "type": "patchouli:shapeless_book_recipe",
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "vnk_upgradable:charged_shard"
+    }
+  ],
+  "book": "vnk_upgradable:vnk_upgradable_guide_book"
+}

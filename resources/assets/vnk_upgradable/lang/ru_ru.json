@@ -1,0 +1,136 @@
+{
+  "comment1.vnc": "____________GUI____________",
+  "gui.vnk_upgradable.upgrading_altar.label_upgrading_altar": "Улучшение",
+  "gui.vnk_upgradable.module_making_table.label_module_making_table": "Создание Модулей",
+
+  "comment2.vnc": "____________KEYS____________",
+  "key.vnk_upgradable.view_block_outline_key": "Switch block's outlines showing",
+  "key.categories.vnk_upgradable": "Vaneck's Upgradable",
+  "message.vnk_upgradable.view_block_outline_pressed_on": "§b Vaneck's Upgradable: §7 Block's outlines is §2 on",
+  "message.vnk_upgradable.view_block_outline_pressed_off": "§b Vaneck's Upgradable: §7 Block's outlines is §4 off",
+
+  "comment3.vnc": "____________MESSAGE____________",
+  "message.vnk_upgradable.altar_no_pylons": "Не хватает пилонов для обновления",
+
+  "comment4.vnc": "____________TOOLTIP____________",
+  "tooltip.vnk_upgrading.upgrading_altar": "Необходимо 7 пилонов улучшения",
+
+  "comment5.vnc": "____________ADVANCEMENTS____________",
+  "advancements.vnk_upgradable.root.title": "Vaneck's Upgradable",
+  "advancements.vnk_upgradable.root.description": "Добро пожаловать",
+  "advancements.vnk_upgradable.charged_shard.title": "С чего всё начиналось...",
+  "advancements.vnk_upgradable.charged_shard.description": "Получите заряженный осколок",
+  "advancements.vnk_upgradable.world_essence.title": "Чистая энергия",
+  "advancements.vnk_upgradable.world_essence.description": "Получите эссенцию мира",
+  "advancements.vnk_upgradable.upgrading_altar.title": "Алтарь улучшения",
+  "advancements.vnk_upgradable.upgrading_altar.description": "Получите Алтарь улучшения - основу этого мода",
+  "advancements.vnk_upgradable.module_making_table.title": "Создание модулей",
+  "advancements.vnk_upgradable.module_making_table.description": "Получите стол создания модулей",
+  "advancements.vnk_upgradable.module_of_durability.title": "Модуль прочности",
+  "advancements.vnk_upgradable.module_of_durability.description": "Получите модуль прочности",
+  "advancements.vnk_upgradable.hypercharged_sword.title": "Гиперзаряженный меч",
+  "advancements.vnk_upgradable.hypercharged_sword.description": "Улучшите заряженный меч до §b гиперзаряженного",
+  "advancements.vnk_upgradable.hypercharged_pickaxe.title": "Гиперзаряженная кирка",
+  "advancements.vnk_upgradable.hypercharged_pickaxe.description": "Улучшите заряженную кирку до §b гиперзаряженной",
+  "advancements.vnk_upgradable.hypercharged_axe.title": "Гиперзаряженный топор",
+  "advancements.vnk_upgradable.hypercharged_axe.description": "Улучшите заряженный топор до §b гиперзаряженного",
+  "advancements.vnk_upgradable.hypercharged_shovel.title": "Гиперзаряженная лопата",
+  "advancements.vnk_upgradable.hypercharged_shovel.description": "Улучшите заряженную лопату до §b гиперзаряженной",
+  "advancements.vnk_upgradable.hypercharged_hoe.title": "Гиперзаряженная мотыга",
+  "advancements.vnk_upgradable.hypercharged_hoe.description": "Улучшите заряженную мотыгу до §b гиперзаряженной",
+
+  "comment6.vnc": "___________PATCHOULI___________",
+  "book.vnk_upgradable.name": "Записи исследований",
+  "book.vnk_upgradable.landing_text": "Привет, $(playername). Добро пожаловать в <<$(blue)Vaneck's Upgradable$(0)>>! Эта книга создана чтобы помочь разобраться в моде. Удачной игры!",
+
+
+  "category.vnk_upgradable.upgrading.name": "Улучшение",
+  "category.vnk_upgradable.upgrading.description": "Всё про алтарь улучшения",
+  "category.vnk_upgradable.energy.name": "Энергия",
+  "category.vnk_upgradable.energy.description": "С чего всё начиналось...",
+  "category.vnk_upgradable.tools.name": "Инструменты и приспособления",
+  "category.vnk_upgradable.tools.description": "Новые инструменты и броня",
+
+
+  "entry.vnk_upgradable.upgrading_altar.name": "Алтарь улучшения",
+  "entry.vnk_upgradable.upgrading_altar.page1": "Чистая энергия - новые возможности. С помощью алтаря улучшения можно улучшать предметы, делая их на уровень выше, например из железных в алмазные.  $(l) При этом сохраняются все данные, зачарования и прочие характеристики предметов!",
+
+  "entry.vnk_upgradable.upgrading_pylon.name": "Пилон улучшения",
+  "entry.vnk_upgradable.upgrading_pylon.page1": "Пилоны - неотъемлемая часть алтаря улучшения. Выстроенные в правильном порядке, они способны направлять энергию предметов, лежащих внутри, в предмет на алтаре.",
+
+  "entry.vnk_upgradable.upgrading_recipes.name": "Рецепты",
+  "entry.vnk_upgradable.upgrading_recipes.page1": "Все рецепты улучшения и создания новых предметов.  $(l) Скоро...",
+
+
+  "entry.vnk_upgradable.new_ore.name": "Новая руда",
+  "entry.vnk_upgradable.new_ore.page1": "Находясь под землёй, иногда можно встретить необычную руду. Это скопление странной энергии, которую, при правильном использовании, можно обратить себе на пользу.",
+
+  "entry.vnk_upgradable.world_extractor.name": "Экстрактор мира",
+  "entry.vnk_upgradable.world_extractor.page1": "С помощью этого на вид простого механизма можно получать эссенцию мира из тех осколков, что выпадают из руды. Также небольшое её количество можно получить из большего количество привычных нам руд.",
+
+  "entry.vnk_upgradable.world_essence.name": "Эссенция мира",
+  "entry.vnk_upgradable.world_essence.page1": "Эссенция мира - чистая энергия, свойства которой до сих пор не до конца изучены. Её можно получить в экстракторе мира из руд или заряженных осколков и использовать, например, для работы алтаря улучшения.",
+
+
+  "entry.vnk_upgradable.charged_tools.name": "Заряженные инструменты",
+  "entry.vnk_upgradable.charged_tools.page1": "Улучшенные инструменты могут быть полезными, но ненадолго, так как их улучшение заключется просто в небольшом увеличении характеристик, но эти инструменты хранят в себе гораздо больший потенциал, возможно, из них можно будет что-нибудь сделать...",
+  "entry.vnk_upgradable.charged_tools.page2": "Улучшенный с помощью $(blue)заряженного осколка$(0), $(item)железный меч$(0) получил небольшое увеличение урона и скорости атаки.",
+  "entry.vnk_upgradable.charged_tools.page3": "Улучшенная с помощью $(blue)заряженного осколка$(0), $(item)железная кирка$(0) получила скорость копания, приближенную к золотым инструментам, но при этом $(l)не потеряла свою прочность.",
+  "entry.vnk_upgradable.charged_tools.page4": "Улучшенный с помощью $(blue)заряженного осколка$(0), $(item)железный топор$(0) получил скорость копания, приближенную к золотым инструментам, но при этом $(l)не потерял свою прочность.",
+  "entry.vnk_upgradable.charged_tools.page5": "Улучшенная с помощью $(blue)заряженного осколка$(0), $(item)железная лопата$(0) получила скорость копания, приближенную к золотым инструментам, но при этом $(l)не потеряла свою прочность.",
+  "entry.vnk_upgradable.charged_tools.page6": "Улучшенная с помощью $(blue)заряженного осколка$(0), $(item)железная мотыга$(0) немного увеличила свою прочность.",
+
+  "entry.vnk_upgradable.hypercharged_tools.name": "Гиперзаряженные инструменты",
+  "entry.vnk_upgradable.hypercharged_tools.page1": "Вам пришла в голову идея зарядить какой-нибудь предмет большим количеством энергии на алтаре, но предмет не выдержал и разрушился. Спустя огромное количество попыток, эксперименты с крепкими предметами и модулем прочности привели к успеху. Теперь вы можете улучшить заряженные инструменты с помощью обсидианового стержня и модуля прочности.",
+  "entry.vnk_upgradable.hypercharged_tools.page2": "$(item)Гиперзаряженный меч$(0) имеет свойство наносить урон мобам поблизости энергетической волной при ударе. Также, благодаря энергии, стремящейся наружу, меч с легкостью рассекает воздух: $(l)Скорость атаки значительно повышена",
+  "entry.vnk_upgradable.hypercharged_tools.page3": "$(item)Гиперзаряженная кирка$(0) высвобождает часть энергии при каждом ударе о блок, благодаря чему может ломать блоки $(l)в радиусе 3x3$(0). Её можно починить с помощью $(item)заряженных осколков.",
+  "entry.vnk_upgradable.hypercharged_tools.page4": "$(item)Гиперзаряженный топор$(0) высвобождает часть энергии при каждом ударе о блок, благодаря чему может сломать $(l)всё дерево за один раз $(0) *настраивается в конфиге*. Его можно починить с помощью $(item)заряженных осколков.",
+  "entry.vnk_upgradable.hypercharged_tools.page5": "$(item)Гиперзаряженная лопата$(0) высвобождает часть энергии при каждом ударе о блок, благодаря чему может ломать блоки $(l)в радиусе 3x3$(0) (только те, что можно добыть лопатой). Её можно починить с помощью $(item)заряженных осколков.",
+  "entry.vnk_upgradable.hypercharged_tools.page6": "$(item)Гиперзаряженная мотыга $(0) немного отличается от других инструментов. Благодаря модулю порядка, вам удалось обуздать хаос и предотвратить разрушение блоков.",
+  "entry.vnk_upgradable.hypercharged_tools.page7": "Теперь, при нажатии пкм, мотыга будет вспахивать землю $(l)особым образом$(0), что позволит растениям на ней $(l)расти немного быстрее$(0). Вспахивает в радиусе 3x3. Её можно починить с помощью $(item)заряженных осколков.",
+
+
+  "entry.vnk_upgradable.charged_armor.name": "Заряженная броня",
+  "entry.vnk_upgradable.charged_armor.page1": "Улучшенная броня, также как и инструменты, обладает немного улучшенными характеристиками, и при этом также хранит в себе гораздо больший потенциал, возможно, из неё можно будет сделать нечто большее",
+  "entry.vnk_upgradable.charged_armor.page2": "Улучшенный с помощью $(blue)заряженного осколка$(0), $(item)железный шлем$(0) получил небольшое увеличение защиты",
+  "entry.vnk_upgradable.charged_armor.page3": "Улучшенный с помощью $(blue)заряженного осколка$(0), $(item)железный нагрудник$(0) получил  $(l)небольшое увеличение защиты",
+  "entry.vnk_upgradable.charged_armor.page4": "Улучшенные с помощью $(blue)заряженного осколка$(0), $(item)железные поножи$(0) получили $(l)небольшое увеличение защиты",
+  "entry.vnk_upgradable.charged_armor.page5": "Улучшенные с помощью $(blue)заряженного осколка$(0), $(item)железнае ботинки$(0) получили $(l)небольшое увеличение защиты",
+
+
+  "comment7.vnc": "____________BLOCK____________",
+  "block.vnk_upgradable.world_extractor_block": "Экстрактор мира",
+  "block.vnk_upgradable.upgrading_altar_block": "Алтарь улучшения",
+  "block.vnk_upgradable.upgrading_pylon_block": "Пилон улучшения",
+  "block.vnk_upgradable.module_making_table_block": "Стол создания модулей",
+  "block.vnk_upgradable.charged_ore": "Скопление энергии",
+  "block.vnk_upgradable.deepslate_charged_ore": "Глубинное скопление энергии",
+
+
+  "comment8.vnc": "____________Item____________",
+  "item.vnk_upgradable.world_essence": "Эссенция мира",
+  "item.vnk_upgradable.charged_shard": "Заряженный осколок",
+  "item.vnk_upgradable.circuit": "Электросхема",
+  "item.vnk_upgradable.module_of_durability": "Модуль прочности",
+  "item.vnk_upgradable.module_of_order": "Модуль порядка",
+  "item.vnk_upgradable.case": "Корпус Механизма",
+  "item.vnk_upgradable.obsidian_rod": "Обсидиановый стержень",
+  "item.vnk_upgradable.charged_sword": "Заряженный меч",
+  "item.vnk_upgradable.charged_pickaxe": "Заряженная кирка",
+  "item.vnk_upgradable.charged_axe": "Заряженный топор",
+  "item.vnk_upgradable.charged_shovel": "Заряженная лопата",
+  "item.vnk_upgradable.charged_hoe": "Заряженная мотыга",
+  "item.vnk_upgradable.hypercharged_sword": "Гиперзаряженный меч",
+  "item.vnk_upgradable.hypercharged_pickaxe": "Гиперзаряженная кирка",
+  "item.vnk_upgradable.hypercharged_axe": "Гиперзаряженный топор",
+  "item.vnk_upgradable.hypercharged_shovel": "Гиперзаряженная лопата",
+  "item.vnk_upgradable.hypercharged_hoe": "Гиперзаряженная мотыга",
+  "item.vnk_upgradable.charged_helmet": "Заряженный шлем",
+  "item.vnk_upgradable.charged_chestplate": "Заряженный нагрудник",
+  "item.vnk_upgradable.charged_leggings": "Заряженные поножи",
+  "item.vnk_upgradable.charged_boots": "Заряженные ботинки"
+
+
+
+
+}

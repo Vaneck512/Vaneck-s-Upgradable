@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_chestplate"
+    },
+    {
+      "item": "vnk_upgradable:charged_shard"
+    },
+    {
+      "item": "vnk_upgradable:charged_shard"
+    },
+    {
+      "item": "vnk_upgradable:charged_shard"
+    },
+    {
+      "item": "vnk_upgradable:charged_shard"
+    },
+    {
+      "item": "vnk_upgradable:charged_shard"
+    },
+    {
+      "item": "vnk_upgradable:charged_shard"
+    },
+    {
+      "item": "vnk_upgradable:charged_shard"
+    },
+    {
+      "item": "vnk_upgradable:charged_shard"
+    }
+  ],
+  "result": {
+    "item": "vnk_upgradable:charged_chestplate",
+    "count": 1
+  }
+}
